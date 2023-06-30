@@ -2,9 +2,7 @@
 
 **Link to the website** : https://chiradip-github-live.netlify.app/
 
-## Ventor - The Btech Blue Print 🐕
-
-🤩 The GitHub-Finder for you
+## 🤩 The GitHub-Finder for you
 
 📐 With a knack for JavaScript wizardry and API mastery, they built a one-of-a-kind platform where GitHub profiles are just a search away. Prepare to be amazed!
 
