@@ -1,9 +1,6 @@
 # Github Live🐱
-![Follow Github](https://github.com/) ![Follow Linkedln](https://www.linkedin.com/in/chiradip-chatterjee-6733b7200/)
 
-![Follow Github](https://img.shields.io/github/followers/codewithakas?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Linkedln](https://img.shields.io/badge/linkedin.com/in/chiradip-chatterjee-6733b7200?style=for-the-badge&logo=linkedin&logoColor=white)
-
-**Link to the website** : https://sembuddy.herokuapp.com/
+**Link to the website** : https://chiradip-github-live.netlify.app/
 
 ## Ventor - The Btech Blue Print 🐕
 
